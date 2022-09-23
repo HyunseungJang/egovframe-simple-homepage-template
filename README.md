@@ -1,4 +1,5 @@
 # egovframe-simple-homepage-template
 Simple Homepage Template
 
-# Check list
+## Check list
+- Add license Info
